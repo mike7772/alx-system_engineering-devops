@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(dirname `which $0`)
+cd $(dirname $0); pwd -p
