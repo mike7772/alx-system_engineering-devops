@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la find . -name '*' -size 0
+ls -la find . -type f -empty
