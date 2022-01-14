@@ -1,14 +1,14 @@
-#!/usr/bin/env bash                                                                    # This script is displaying "Best School" 10 times                                     # but for the 9th iteration, displays hi and Best School
-i=1
+#!/usr/bin/env bash
+# Displays Best School for 9 times and 
+# displays hi before Best School
+count=0
 
-while [ $i -lt "10" ]
+while [ $count -lt 10 ]
 do
-    echo "Best School"
-    if [ $i -eq "9" ]
-    then
-        echo "Hi"
-        echo "Best School"
-    fi
-
-    ((i += 1))
+  if [ $count -eq 9 ]
+  then
+    echo "Hi"
+  fi
+  echo "Best School"
+  (( count++ ))
 done
