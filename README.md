@@ -4,36 +4,34 @@
 This repository contains programs written for the system engineering and DevOps track at Holberton School. In these projects, I worked with Bash and practiced writing Bash scripts to automate tasks. I learned about the OSI model and various Linux networking tools. Further, I configured a distributed system - two web servers and one load balancer - for deployment of my AirBnB project using Nginx, HAProxy, certbot, ufw, and MySQL. The specific list of projects contained follows:
 </p>
 
-<a> • 0x00. C - Hello, World </a> <br />
-<a> • 0x01. C - Variables, if, else, while </a> <br />
-<a> • 0x02. C - Functions, nested loops </a> <br />
-<a> • 0x03. C - More functions, more nested loops </a> <br />
-<a> • 0x04. C - Pointers, arrays and strings </a> <br />
-<a> • 0x05. C - More pointers, arrays and strings </a> <br />
-<a> • 0x06. C - Even more pointers, arrays and strings </a> <br />
-<a> • 0x07. C - Recursion </a> <br />
-<a> • 0x08. C - Static libraries </a> <br />
-<a> • 0x09. C - argc, argv </a> <br />
-<a> • 0x0A. C - malloc, free </a> <br />
-<a> • 0x0B. C - More malloc, free </a> <br />
-<a> • 0x0C. C - Preprocessor </a> <br />
-<a> • 0x0D. C - Structures, typedef </a> <br />
-<a> • 0x0E. C - Function pointers </a> <br />
-<a> • 0x0F. C - Variadic functions </a> <br />
-<a> • 0x10. C - printf </a> <br />
-<a> • 0x11. C - Singly linked lists </a> <br />
-<a> • 0x12. C - More singly linked lists </a> <br />
-<a> • 0x13. C - Bit manipulation </a> <br />
-<a> • 0x14. C - File I/O </a> <br />
-<a> • 0x15. C - Simple Shell </a> <br />
-<a> • 0x16. C - Doubly linked lists </a> <br />
-<a> • 0x17. C - Dynamic libraries </a> <br />
-<a> • 0x18. C - Stacks, Queues - LIFO, FIFO </a> <br />
-<a> • 0x19. C - Hash tables </a> <br />
-<a> • 0x1A. C - Sorting algorithms & Big O </a> <br />
-<a> • 0x1B. C - Makefiles </a> <br />
-<a> • 0x1C. C - Binary trees </a> <br />
-<a> • 0x1D. C - Search Algorithms </a> <br />
+<a> • 0x00. Shell, basics </a> <br />
+<a> • 0x01. Shell, permissions </a> <br />
+<a> • 0x02. Shell, I/O Redirections and filters </a> <br />
+<a> • 0x03. Shell, init files, variables and expansions </a> <br />
+<a> • 0x04. Loops, conditions and parsing </a> <br />
+<a> • 0x05. Processes and signals </a> <br />
+<a> • 0x06. Regular expression </a> <br />
+<a> • 0x07. Networking basics #0 </a> <br />
+<a> • 0x08. Networking basics #1 </a> <br />
+<a> • 0x09. Web infrastructure design </a> <br />
+<a> • 0x0A. SSH </a> <br />
+<a> • 0x0B. Web server </a> <br />
+<a> • 0x0C. Web stack debugging #0 </a> <br />
+<a> • 0x0D. Configuration management </a> <br />
+<a> • 0x0E. Web stack debugging #1 </a> <br />
+<a> • 0x10. HTTPS SSL </a> <br />
+<a> • 0x11. What happens when you type holbertonschool.com in your browser and press Enter </a> <br />
+<a> • 0x12. Web stack debugging #2 </a> <br /> 
+<a> • 0x13. Firewall </a> <br />
+<a> • 0x14. Mysql </a> <br />
+<a> • 0x15. API </a> <br />
+<a> • 0x16. API advanced </a> <br />
+<a> • 0x17. Web stack debugging #3 </a> <br />
+<a> • 0x18. Webstack monitoring </a> <br />
+<a> • 0x19. Postmortem </a> <br />
+<a> • 0x1A. Application server </a> <br />
+<a> • 0x1B. Web stack debugging #4 </a> <br />
+<a> • Command Line for the Win </a> <br />
 
  Author ✒️ Michael Asnake <mike7772> 
    <br />
